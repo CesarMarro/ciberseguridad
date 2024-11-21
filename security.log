@@ -1,0 +1,19 @@
+2024-11-20 21:41:44,628 WARNING:Intento de inicio de sesión fallido para 'cesar'.
+2024-11-20 21:41:51,206 INFO:Usuario 'cesar' registrado y llaves generadas.
+2024-11-20 21:41:52,542 INFO:Usuario 'cesar' inició sesión.
+2024-11-20 21:42:09,442 INFO:Usuario 'cesar' firmó un documento PDF.
+2024-11-20 21:42:19,521 INFO:Usuario 'cesar' verificó un documento firmado.
+2024-11-20 21:42:43,290 INFO:Usuario 'loco' registrado y llaves generadas.
+2024-11-20 21:42:45,217 INFO:Usuario 'loco' inició sesión.
+2024-11-20 21:42:56,698 INFO:Usuario 'loco' verificó un documento firmado.
+2024-11-20 21:43:55,496 INFO:Usuario 'cesar' inició sesión.
+2024-11-20 21:45:26,887 INFO:Usuario 'cesar' verificó un documento firmado.
+2024-11-20 21:57:23,655 INFO:Usuario 'cesar' firmó un documento PDF.
+2024-11-20 21:57:33,519 INFO:Usuario 'cesar' verificó un documento firmado.
+2024-11-20 22:28:15,296 INFO:Usuario 'Kenneth' registrado y llaves generadas.
+2024-11-20 22:28:21,153 INFO:Usuario 'Kenneth' inició sesión.
+2024-11-20 22:28:37,568 INFO:Usuario 'Kenneth' firmó un documento PDF.
+2024-11-20 22:28:53,864 INFO:Usuario 'Kenneth' verificó un documento firmado.
+2024-11-20 22:29:06,436 INFO:Usuario 'Kenneth' encriptó un mensaje para 'loco'.
+2024-11-20 22:29:24,842 INFO:Usuario 'loco' inició sesión.
+2024-11-20 22:30:23,139 INFO:Usuario 'loco' desencriptó un mensaje.
